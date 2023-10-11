@@ -43,6 +43,9 @@ $(function () {
     else if(timeBlockId == currentHour){
       $(this).addClass("present")
     }
+    else if(timeBlockId > currentHour){
+      $(this).addClass("future")
+    }
   })
 
  
