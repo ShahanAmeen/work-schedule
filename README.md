@@ -7,7 +7,8 @@ This homework assignment displays the work schedule for Shahan Ameen. He is a st
 
 
 ## URL
-
+ https://shahanameen.github.io/work-schedule/
+ https://github.com/ShahanAmeen/work-schedule/
 ## Author
 Shahan Ameen
 https://github.com/ShahanAmeen 
